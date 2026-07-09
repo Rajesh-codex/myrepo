@@ -8,3 +8,4 @@ print("Area of a circle:",area)   # Area of a circle: 314
 
 peri = 2 * pie * radius
 print("Perimeter of the circle:",peri)
+print(area)
